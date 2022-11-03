@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/decryptingtrustee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/decryption" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/keyceremony" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/keyceremonytrustee" vcs="Git" />
   </component>

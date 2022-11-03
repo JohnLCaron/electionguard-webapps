@@ -5,6 +5,24 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/decryptingtrustee" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/decryptingtrustee" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/decryption" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/decryption" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/keyceremony" />
         <option name="modules">
           <set>
